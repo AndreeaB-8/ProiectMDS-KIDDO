@@ -10,8 +10,8 @@ The goal is to create an educational game for kids designed to help children lea
 - Visual Studio (development environment)
 - SQL Server Management
 
-## 👩‍💻 What I did
-- Designed math exercises and visual game flows
+## 👩‍💻 Main functionalities
+- Exercises and visual game flows
 - User management
 - Authentication (Administrator + User)
 - Report generation
